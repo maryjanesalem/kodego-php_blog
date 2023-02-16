@@ -1,0 +1,30 @@
+
+/* 
+font-family: 'Arizonia', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Julee', cursive;
+*/
+
+.blog-title {
+    display: block;
+    font-size: 4em;
+    margin-top: 4rem;
+    font-family: 'Arizonia', cursive;
+}
+
+.blog-tagline {
+    font-size:x-large;
+    font-family: 'Julee', cursive;
+    margin-bottom: 3.5rem;
+}
+
+nav div {
+    border-top: 2px solid #f472b6;
+    border-bottom: 2px solid #f472b6;
+
+}
+
+nav a:hover {
+    color:#db2777;
+}
+
